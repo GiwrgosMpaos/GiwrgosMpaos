@@ -11,7 +11,7 @@ I build modern websites and web apps using HTML, CSS, JavaScript, and Node.js.
 ## 🚀 Projects
 
 🔹 Portfolio Website  
-https://portfolio.dgmastudios.com
+https://portofolio.dgmastudios.com
 
 🔹 Blog App (Node + Express)  
 Create, edit and manage blog posts.
