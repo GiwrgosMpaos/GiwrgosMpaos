@@ -2,21 +2,29 @@
 
 💻 Web Developer  
 🏀 Basketball Player  
-🚀 Founder of DGMA Studio  
-
-I build modern websites and web apps using HTML, CSS, JavaScript, and Node.js.
+🌐 Building modern websites and web applications
 
 ---
 
 ## 🧠 Tech Stack
 
-HTML  
-CSS  
-JavaScript  
-Node.js  
-Express  
-PostgreSQL  
-Git
+HTML | CSS | JavaScript | Node.js | Express | PostgreSQL | Git
+
+---
+
+## 🚀 Projects
+
+🔹 **Portfolio Website**  
+https://portfolio.dgmastudios.com
+
+🔹 **Blog Platform (Node + Express)**  
+Create and manage blog posts with server-side rendering.
+
+🔹 **Book Tracker (PostgreSQL)**  
+Track books, ratings, and reading history.
+
+🔹 **Movie API App**  
+Dynamic movie search using public APIs.
 
 ---
 
