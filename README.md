@@ -8,23 +8,26 @@
 
 ## 🧠 Tech Stack
 
-HTML | CSS | JavaScript | Node.js | Express | PostgreSQL | Git
+HTML | CSS | JavaScript | React
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects:
 
-🔹 **Portfolio Website**  
+🔹 **Portfolio Website ( HTML | CSS )**  
 https://portfolio.dgmastudios.com
 
-🔹 **Blog Platform (Node + Express)**  
-Create and manage blog posts with server-side rendering.
+🔹 **JavaScript Calculator ( HTML | CSS | JS )**  
+https://giwrgos-calculator.netlify.app
 
-🔹 **Book Tracker (PostgreSQL)**  
-Track books, ratings, and reading history.
+🔹 **To Do List ( REACT )**  
+https://todo-app-gb.netlify.app
 
-🔹 **Movie API App**  
-Dynamic movie search using public APIs.
+---
+
+## ⌛ Currently Working On:
+
+🔹 **Weather App (REACT | APIs ) **
 
 ---
 
